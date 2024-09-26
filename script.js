@@ -1,3 +1,3 @@
-function zobrazZpravu() {
-    alert("Ahoj, funguje to!");
+function showmsg() {
+    alert("lol");
 }
