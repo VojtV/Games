@@ -1,3 +1,3 @@
-function showmsg() {
-    alert("lol");
+function showMsg() {
+    alert("Hi, it works!");
 }
