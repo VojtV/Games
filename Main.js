@@ -1,6 +1,3 @@
-window.Main = function () {
-    window.location.href = 'Main.html'
-}
 const games = document.querySelector("#games")
 
 function loadGame(name) {
